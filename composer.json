@@ -13,7 +13,8 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.5",
-        "kassacom/php-sdk": "1.0.x-dev"
+        "kassacom/php-sdk": "1.0.x-dev",
+        "guzzlehttp/guzzle": "^6.0.0"
     },
     "autoload": {
         "psr-4": {
