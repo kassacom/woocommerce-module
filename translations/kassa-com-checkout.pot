@@ -1,0 +1,58 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kassa.com для WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-28 19:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author URI of the plugin
+msgid "https://kassa.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kassa.com Developers"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kassa.com для WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Платежный модуль для работы с Kassa.com через плагин WooCommerce"
+msgstr ""
+
+msgid "Настройки модуля Kassa.com для WooCommerce"
+msgstr ""
+
+msgid "Список платежей через модуль"
+msgstr ""
+
+msgid "Настройки модуля Kassa.com для WooCommerce"
+msgstr ""
+
+msgid "Для работы с модулем необходимо подключить магазин к <a target=\"_blank\" href=\"http://kassa.com/\">Kassa.com</a>"
+msgstr ""
+
+msgid "ID Проекта"
+msgstr ""
+
+msgid "Скопируйте Project Id из личного кабинета Kassa.com"
+msgstr ""
+
+msgid "Логин"
+msgstr ""
+
+msgid "Токен"
+msgstr ""
+
+msgid "Wallet id"
+msgstr ""
